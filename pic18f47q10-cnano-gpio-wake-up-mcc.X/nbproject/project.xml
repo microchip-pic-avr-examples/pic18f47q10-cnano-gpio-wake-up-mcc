@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pic18f47q10-curiosity-nano-board-gpio-wake-up-mcc</name>
+            <name>pic18f47q10-cnano-gpio-wake-up-mcc</name>
             <creation-uuid>f43017cd-3d5a-4e8b-b6b3-805a222a74bb</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
