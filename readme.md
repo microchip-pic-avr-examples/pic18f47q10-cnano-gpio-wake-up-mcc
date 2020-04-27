@@ -62,7 +62,7 @@ The RA0 will be connected to the user button using a wire.
 
 3. Set *pic18f47q10-cnano-gpio-wake-up-mcc.X* project as main project. Right click on the project in the *Projects* tab and click *Set as Main Project*:
 
-<br><img src="images/gpio-wake-upe-main-project.png" width="400">
+<br><img src="images/gpio-wake-up-main-project.png" width="400">
 
 4. Select the *PIC18F47Q10 Curiosity Nano* in the *Hardware Tool* section of the project settings:
   - Right click on the project and click *Properties*;
